@@ -6,20 +6,20 @@ Features:
 - Main Menu: Start and Quit options
 - Wave System: 5 Waves
 - Towers:
--   Placeable only on grass
--   Range detection with a hover circle
+  - Placeable only on grass
+  - Range detection with a hover circle
 - Enemies:
--   Move along a winding path
--   Health bars above each one
+  - Move along a winding path
+  - Health bars above each one
 - Bullets:
--   Glowing Projectile
+  - Glowing Projectile
 - Explosions:
--   Animated blast effect when enemies die
+  - Animated blast effect when enemies die
 - Economy & Lives
--   Earn money for kills
--   Lose lives when enemies escape
+  - Earn money for kills
+  - Lose lives when enemies escape
 - Game Over / You Win screens
-- Restart button to replay after finishing
+  - Restart button to replay after finishing
 
 Technologies Used:
 - Java
